@@ -13,11 +13,17 @@ This project was a collaborative effort, focusing on delivering an engaging and 
 ### Key Features
 
 ✅ 3D Gym Environment – A virtual gym space with workout stations.
+
 ✅ Custom Workout Plans – Player can select and follow predefined exercises with the help on an existing trainer .
+
 ✅ Nutrition Plan - Player can interact with an nutritionist.
+
 ✅ Exercise Interactions – Engage with gym equipment like treadmills, dumbbells, multi-purpose machinery etc.
+
 ✅ Character Animation & Physics – Smooth and natural player movement.
+
 ✅ Progress Tracking – Tracks workout stats such as points and duration of training.
+
 ✅ Store - A place where the player can buy stuff using his points(money) gained by training.
 
 ---
@@ -32,19 +38,20 @@ Make sure you have the following installed before running the project:
     Visual Studio / JetBrains Rider (to check the scripts in C#)
 
 How to Run the Project
-1️. Downlaod it from the dropbox link
 
-2️. Open in Unity
+- Downlaod it from the dropbox link
 
-    Open Unity Hub.
-    Click Open Project and navigate to the cloned folder.
-    Let Unity import assets and resolve dependencies.
+- Open in Unity
 
-3️. Play the Game
+  Open Unity Hub.
+  Click Open Project and navigate to the cloned folder.
+  Let Unity import assets and resolve dependencies.
 
-    Press ▶ Play in the Unity Editor to test the gym environment.
+- Play the Game
 
-4️. Build the Game
+  Press ▶ Play in the Unity Editor to test the gym environment.
+
+- Build the Game
 
 To generate an executable build, follow these steps:
 
