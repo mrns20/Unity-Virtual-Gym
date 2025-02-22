@@ -4,7 +4,7 @@ https://www.dropbox.com/scl/fi/k87wa5tfheiouq4hhiaaq/final_project_2024.zip?rlke
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Virtual Gym is a team-developed fitness application built using Unity a project for the University course of Human Computer Interaction in Athens,University of West Attica,2024 designed to simulate a gym environment where users can perform workouts, track their points gained, and interact with various fitness equipment.
 
@@ -28,7 +28,7 @@ This project was a collaborative effort, focusing on delivering an engaging and 
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 🔹 Prerequisites
 
@@ -61,7 +61,7 @@ To generate an executable build, follow these steps:
 
 ---
 
-## 🎮 Keyboard & Mouse Controls
+## Keyboard & Mouse Controls
 
 Move Character W, A, S, D or Arrow Keys
 Interact with Equipment E
